@@ -11,3 +11,7 @@
 
 ## Screen Shots
 ![In Game](https://github.com/Compiler/Bumpin-Grumpins/blob/master/PongGame/Assets/Screenshots/ingame.PNG)
+
+---
+
+![Triple](https://github.com/Compiler/Bumpin-Grumpins/blob/master/PongGame/Assets/Screenshots/trple.PNG)
