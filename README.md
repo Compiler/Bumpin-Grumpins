@@ -10,6 +10,10 @@
 - Windows Play
 
 ## Screen Shots
+![Menu](https://github.com/Compiler/Bumpin-Grumpins/blob/master/PongGame/Assets/Screenshots/mainmenu.png)
+
+---
+
 ![In Game](https://github.com/Compiler/Bumpin-Grumpins/blob/master/PongGame/Assets/Screenshots/ingame.PNG)
 
 ---
